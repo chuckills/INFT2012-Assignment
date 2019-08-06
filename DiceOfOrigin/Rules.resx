@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tbxRules.Text" xml:space="preserve">
+    <value>=================================
+Lurgit is played with three dice. 
+=================================
+
+Each game consists of six rounds, and the aim is to get the best possible score
+over those six rounds. In each round there is a required number, which is the 
+same as the round number. 
+
+Each player in a round has up to three rolls of the dice, the main goal being to 
+roll as many as possible of the required number. So in round 1 the goal is to roll 
+three 1s, in round 2 the goal is to roll three 2s, and so on.
+
+For the first roll in a round, all three dice are thrown.
+
+For the second and third rolls, the player can choose to keep one or two of the 
+dice as they are by clicking on the die, and only roll the other two or one.
+
+For example, in round 4, when the required number is 4, the first roll produces 2, 
+4, and 6. The player chooses to keep the 4, and rolls the first and third dice, 
+getting 4 and 1. 
+
+For the final roll, the player keeps both 4s, rolls just the third die, and gets
+a 5. 
+
+At the end of the third roll the dice show 4, 4, and 5.
+
+If the dice already show three of the required number before three rolls have been
+taken, the player can choose not to roll the dice again, but to end the round with 
+the dice in their current state.
+
+A player's score for a round is the sum of the dice that show the required number. 
+
+In the example above, the player scores 8, being the sum of the two 4s.
+
+================================================================
+In addition to the normal score there are two bonuses available.
+================================================================
+
+If after any roll during the round the dice show three consecutive numbers,
+there is a 'sequence bonus' of 10 points.
+
+So for example, in round 5 a player first rolls 2, 2, and 3. For the second 
+roll the player throws all three dice again, getting 4, 5, and 6, for a sequence
+bonus of 10. The player then keeps the 5 and rolls the other two dice, getting
+3 and 4 – for another 10-point bonus.
+
+The player's score for this round is 25: the 5 that's showing at the end, a 
+10-point bonus from the second roll, and a 10-point bonus from the third roll. 
+
+Note that a bonus cannot be carried from one roll to the next by choosing to
+roll no dice. 
+
+If you roll 1, 2, 3 at the start of your turn, you can't say "I'm rolling no
+dice" and claim a second bonus, then say "I'm rolling no dice" again and claim
+a third bonus. 
+
+===============================================================================
+The sequence bonus can be claimed only after actually rolling one or more dice.
+===============================================================================
+
+The second bonus, a 'lurgit bonus', is worth 20 points. 
+
+This is won when a player rolls all three dice and all three of them show the
+required number – this is called a lurgit. For example, in round 5 the player
+throws all three dice and gets three 5s. 
+
+The score for this round is then 15 (the three 5s) plus 20 for the lurgit, making
+a total score of 35. A lurgit can be scored on the first, second, or third roll of
+the round, but all three dice must have been rolled. 
+
+===============================================================================
+If you already have one 5, then you hold it, roll two dice and get two more 5s,
+that is not a lurgit and doesn't earn the bonus.
+===============================================================================
+
+A lurgit ends the round for that player: even if it's the first roll of the round, 
+play then moves on to the next player or the next round.
+
+Note that the score from the required number is based only on how many are showing
+at the end of the round.
+
+If after the second roll of round 2 you have two 2s, then you roll all three dice
+in the hope of scoring a bonus and get 1, 3, and 6, your score for the round is 
+zero – you've thrown away the two 2s.</value>
+  </data>
+</root>

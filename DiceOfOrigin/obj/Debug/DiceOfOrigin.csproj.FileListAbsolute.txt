@@ -1,0 +1,14 @@
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.csprojAssemblyReference.cache
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.Properties.Resources.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.csproj.GenerateResource.cache
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.csproj.CoreCompileInputs.cache
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\bin\Debug\DiceOfOrigin.exe.config
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\bin\Debug\DiceOfOrigin.exe
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\bin\Debug\DiceOfOrigin.pdb
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.InputBox.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.Lurgit.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.Player.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.DiceWindow.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.Rules.resources
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.exe
+C:\Users\chuck\OneDrive - The University Of Newcastle\UNI\Year 03\Semester 01\INFT2012\Assignments\INFT 2012 Assignment\GregoryChoiceChristopherBoothAssgt\obj\Debug\DiceOfOrigin.pdb
